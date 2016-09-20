@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: filament-width-sensor.PcbDoc   9/20/2016  9:26:32 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : filament-width-sensor-RoundHoles.TXT
+ASCII SlotHoles File : filament-width-sensor-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             27        PTH        136.34mm (5.37inch)
+T2      0.6mm (24mil)                                             Slot              2         PTH        15.43mm (0.61inch)
+T3      0.7mm (28mil)                                             Round             22        PTH        67.56mm (2.66inch)
+T4      0.85mm (33mil)                                            Round             2         PTH        5.00mm (0.20inch)
+T5      0.9mm (35mil)                                             Round             10        PTH        59.67mm (2.35inch)
+T6      3.2mm (126mil)                                            Round             4         PTH        78.00mm (3.07inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              67
+
+Total Processing Time (hh:mm:ss) : 00:00:00

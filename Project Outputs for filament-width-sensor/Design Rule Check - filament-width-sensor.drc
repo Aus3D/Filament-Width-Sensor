@@ -1,38 +1,26 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Chris\Documents\Git\Filament-Width-Sensor\filament-width-sensor.PcbDoc
 Date     : 9/20/2016
-Time     : 1:23:33 PM
+Time     : 9:41:19 PM
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net USB_N Between Pad P7-D-(-5.7mm,45.72mm) on Top Layer And Pad U1-17(19.388mm,15.381mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net USB_P Between Pad P7-D+(-6.35mm,45.72mm) on Top Layer And Pad U1-18(19.388mm,16.031mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P7-SHIELD(-9.4mm,48.42mm) on Top Layer And Pad P7-GND(-7.65mm,45.72mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P7-SHIELD(-9.4mm,48.42mm) on Top Layer And Pad P7-SHIELD(-3.3mm,48.42mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad ADR1-1(16.575mm,39.525mm) on Top Layer And Track (16.764mm,13.97mm)(17.438mm,13.97mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad P7-SHIELD(-2.85mm,48.42mm) on Multi-Layer And Pad ADR1-1(16.575mm,39.525mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VDD Between Pad D1-3(-5.08mm,41.656mm) on Top Layer And Pad C1-1(32.142mm,15.766mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net ADR1 Between Pad ADR1-2(16.575mm,40.541mm) on Top Layer And Pad U1-6(25.088mm,14.081mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad P3-1(28.194mm,7.62mm) on Multi-Layer And Pad C2-1(28.352mm,12.046mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net USB_VDD Between Pad D1-1(-6.03mm,39.64mm) on Top Layer And Pad P7-VBUS(-5.05mm,45.72mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_2 Between Pad R1-2(10mm,2.15mm) on Bottom Layer And Pad R2-2(11.75mm,2.15mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net NetR1_2 Between Pad S1-1(7.68mm,10.886mm) on Bottom Layer And Pad R1-2(10mm,2.15mm) on Bottom Layer 
-Rule Violations :12
-
-Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.5mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.25mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.5mm) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 12
-Time Elapsed        : 00:00:00
+Violations Detected : 0
+Time Elapsed        : 00:00:02
